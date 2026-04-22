@@ -1,12 +1,12 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Terminal UI for browsing files and reviewing diffs",
   "homepage": "https://github.com/Liszt-Fly/stoa-releases",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Liszt-Fly/stoa-releases/releases/download/v0.1.1/stoa_Windows_x86_64.zip",
-      "hash": "12019b2377bbc9e24bf2b1703cde2991cc210df0c1def4ff0f5b195c592cd802"
+      "url": "https://github.com/Liszt-Fly/stoa-releases/releases/download/v0.1.2/stoa_Windows_x86_64.zip",
+      "hash": "e815d17ba0419e0545ff01235861d868ff83c8ce8ba329cba849135f15bb68e2"
     }
   },
   "bin": "stoa.exe",
